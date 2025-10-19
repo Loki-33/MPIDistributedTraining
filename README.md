@@ -19,5 +19,4 @@ Implementation of Distributed training methods like:
 
 ### TODO 
 - PIPEDREAM method Implementation
-```
 
